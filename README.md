@@ -4,7 +4,7 @@ I'm Marcus Ferreira, Computation Systems student @ UFF, who loves to read/learn 
 
 - 🔭 I’m currently working on Python tkinter projects
 - 🌱 I’m currently learning Python and SQL
-
+- ⚡ Fun facts: I love to play musical instruments and video-games
 
 ### Contact me:
 
