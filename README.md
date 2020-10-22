@@ -11,6 +11,9 @@ I'm Marcus Ferreira, Computation Systems student @ UFF, who loves to read/learn 
 [<img align="left" alt="marcus-ferreira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="marcus-ferreira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</br>
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
