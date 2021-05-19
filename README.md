@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Marcus Ferreira, Computation Systems student @ UFF, who loves to read/learn about Python, data science and programming.
+I'm Marcus Ferreira, Computation Systems student at UFF, who loves to read/learn about Python, data science and programming.
 
 - 🔭 I’m currently working on Python tkinter projects
 - 🌱 I’m currently learning Python and SQL
