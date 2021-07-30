@@ -2,8 +2,7 @@
 
 I'm Marcus Ferreira, Computation Systems student at UFF, who loves to read/learn about programming.
 
-- 🔭 I’m currently working on Python and Java projects
-- 🌱 I’m currently learning Java
+- 🌱 Learning: Java and C#
 - ⚡ Fun facts: I love to play musical instruments and video-games
 
 ### Contact me:
