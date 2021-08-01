@@ -1,7 +1,11 @@
 ## Hi there! I'm Marcus Ferreira 👋
 
+- 🌱 Learning: Java and C#
+- 💻 Working: Python projects
+- ⚡ Fun facts: I love to play musical instruments and play video-games
+
 <!-- Stats -->
-<div><br>
+<div>
   <a href="https://github.com/marcus-ferreira">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-ferreira&show_icons=true&theme=vue-dark">
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&layout=compact&theme=vue-dark">
