@@ -2,7 +2,7 @@
 
 - 🌱 Learning: Java and C#
 - 💻 Working: Python projects
-- ⚡ Fun facts: I love to play musical instruments and play video-games
+- ⚡ Fun facts: I love to play musical instruments and video-games
 
 <!-- Stats -->
 <div>
