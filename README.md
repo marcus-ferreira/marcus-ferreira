@@ -1,7 +1,7 @@
 ## Hi there! I'm Marcus Ferreira 👋
 
 <!-- Stats -->
-<div style="display: inline_block"><br>
+<div><br>
   <a href="https://github.com/marcus-ferreira">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-ferreira&show_icons=true&theme=vue-dark">
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&layout=compact&theme=vue-dark">
