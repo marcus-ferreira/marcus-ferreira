@@ -1,8 +1,8 @@
 ## Hi there! I'm Marcus Ferreira 👋
 
-- 🌱 Learning: Java and C#
-- 💻 Working: Python projects
-- ⚡ Fun facts: I love to play musical instruments and video-games
+- 🌱 <b>Learning</b>: Java and C#
+- 💻 <b>Working on</b>: Python projects
+- ⚡ <b>Fun facts</b>: I love to play musical instruments and video-games
 
 <!-- Stats -->
 <div>
@@ -20,6 +20,8 @@
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<br>
 
 ##
 
