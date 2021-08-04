@@ -1,7 +1,7 @@
 ## Hi there! I'm Marcus Ferreira 👋
 
 - 🌱 <b>Learning</b>: Java and C#
-- 💻 <b>Working on</b>: Python projects
+- 💻 <b>Working on</b>: Java projects
 - ⚡ <b>Fun facts</b>: I love to play musical instruments and video-games
 
 <!-- Stats -->
