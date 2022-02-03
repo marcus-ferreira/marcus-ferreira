@@ -1,7 +1,7 @@
 ## Hi there! I'm Marcus Ferreira 👋
 
-- 🌱 <b>Learning</b>: Java and C#
-- 💻 <b>Working on</b>: Java projects
+- 🌱 <b>Learning</b>: Django and JavaScript
+- 💻 <b>Working on</b>: Develop skills
 - ⚡ <b>Fun facts</b>: I love to play musical instruments and video-games
 
 <!-- Stats -->
@@ -20,6 +20,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 <br>
