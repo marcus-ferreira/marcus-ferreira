@@ -29,7 +29,7 @@
 
 <!-- Contact -->
 <div> 
-  <a href="https://www.marcus-ferreira.github.io" target="_blank">
+  <a href="https://marcus-ferreira.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&logo=&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/marcusviniciusfp" target="_blank">
