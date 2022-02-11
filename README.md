@@ -1,7 +1,7 @@
 ## Hello! I'm Marcus Ferreira 👋
 
-- 🌱 <b>Learning</b>: Django and JavaScript
-- 💻 <b>Working on</b>: Develop skills
+- 🌱 <b>Learning</b>: Web scraping, data mining and related
+- 💻 <b>Working on</b>: Data science projects
 - ⚡ <b>Fun facts</b>: I love to play musical instruments and video-games
 
 <!-- Stats -->
