@@ -1,8 +1,12 @@
-## Hello! I'm Marcus Ferreira 👋
+# Hello world! 👋
 
-- 🌱 <b>Learning</b>: C#, JavaScript and gamedev
-- 💻 <b>Working on</b>: Personal projects
-- ⚡ <b>Fun facts</b>: I love to play musical instruments and video-games
+I'm Marcus Ferreira, a Computing Systems student at UFF. I'm self-taught in tech, having knowledge at programming logic and languages as: HTML, CSS, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
+
+## 💻 Skills
+
+![](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
 
 <!-- Stats -->
 <div>
