@@ -1,8 +1,21 @@
-# Hello world! I'm Marcus Ferreira 👋
+## Hello world! I'm Marcus Ferreira 👋
 
-Computing Systems student at UFF, I'm self-taught in tech, having knowledge at programming logic and languages as: HTML, CSS, JavaScript and Python. I'm looking for my first job opportunity to improve my knowledge and experience.
+<div align="center">
+	<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
 
-## 🔧 Skills
+Computing Systems student @ [UFF](https://www.uff.br)
+
+[![](https://img.shields.io/badge/Homepage-red)](https://marcus-ferreira.github.io)
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/emarcusferreira)
+[![](https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white)](https://codepen.io/marcusferreira)
+[![](https://img.shields.io/badge/CodeSandbox-black?logo=codesandbox&logoColor=white)](https://codesandbox.io/u/marcus-ferreira)
+[![](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&logoColor=white)](https://marcusferreira.itch.io)
+[![](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:mv.ferreirapinto@gmail.com)
+
+</div>
+
+
+### Skills
 
 ![](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,16 +27,7 @@ Computing Systems student at UFF, I'm self-taught in tech, having knowledge at p
 ![](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
-## 💻 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=marcus-ferreira&show_icons=true&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&layout=compact&theme=vue-dark)
+### GitHub Stats
 
-## Social
-
-[![](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://marcus-ferreira.github.io)
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emarcusferreira/)
-[![](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marcusferreira)
-[![](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/marcus-ferreira)
-[![](https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marcusferreira.itch.io)
-[![](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv.ferreirapinto@gmail.com)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&theme=vue-dark)
