@@ -5,12 +5,12 @@
 
 Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 
-[![](https://img.shields.io/badge/Homepage-red)](https://marcus-ferreira.github.io)
-[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/emarcusferreira)
-[![](https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white)](https://codepen.io/marcusferreira)
-[![](https://img.shields.io/badge/CodeSandbox-black?logo=codesandbox&logoColor=white)](https://codesandbox.io/u/marcus-ferreira)
-[![](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&logoColor=white)](https://marcusferreira.itch.io)
-[![](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:mv.ferreirapinto@gmail.com)
+[![Homepage](https://img.shields.io/badge/Homepage-red)](https://marcus-ferreira.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/emarcusferreira)
+[![CodePen](https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white)](https://codepen.io/marcusferreira)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-black?logo=codesandbox&logoColor=white)](https://codesandbox.io/u/marcus-ferreira)
+[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itchdotio&logoColor=white)](https://marcusferreira.itch.io)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:mv.ferreirapinto@gmail.com)
 
 </div>
 
@@ -19,16 +19,18 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 ### Stacks
 
 #### Front End:
-![](https://img.shields.io/badge/HTML-80%25-green?labelColor=white&logo=html5&logoColor=red)
-![](https://img.shields.io/badge/CSS-70%25-green?labelColor=white&logo=css3&logoColor=blue)
-![](https://img.shields.io/badge/JavaScript-60%25-yellow?labelColor=white&logo=javascript)
-![](https://img.shields.io/badge/Sass/SCSS-50%25-yellow?labelColor=white&logo=sass)
+[![CSS](https://img.shields.io/badge/CSS-95%25-green?labelColor=white&logo=css3&logoColor=blue)](https://www.linkedin.com/in/emarcusferreira/)
+[![HTML](https://img.shields.io/badge/HTML-85%25-green?labelColor=white&logo=html5&logoColor=red)](https://www.linkedin.com/in/emarcusferreira/)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?labelColor=white&logo=javascript)
+![Sass](https://img.shields.io/badge/Sass/SCSS-50%25-yellow?labelColor=white&logo=sass)
 
 #### Back End:
+[![Python](https://img.shields.io/badge/Python-95%25-green?labelColor=white&logo=python)](https://www.linkedin.com/in/emarcusferreira/)
+[![GCP](https://img.shields.io/badge/GCP-85%25-green?labelColor=white&logo=googlecloud)](https://www.linkedin.com/in/emarcusferreira/)
 ![](https://img.shields.io/badge/MySQL-60%25-yellow?labelColor=white&logo=mysql)
-![](https://img.shields.io/badge/Python-60%25-yellow?labelColor=white&logo=python)
 ![](https://img.shields.io/badge/MongoDB-40%25-yellow?labelColor=white&logo=mongodb)
 ![](https://img.shields.io/badge/Node.js-30%25-yellow?labelColor=white&logo=nodedotjs)
+GCP 
 
 #### Tools:
 ![](https://img.shields.io/badge/VS%20Code-70%25-green?labelColor=white&logo=visualstudiocode&logoColor=blue)
