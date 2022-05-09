@@ -17,15 +17,23 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 ##
 
 ### Stacks
+
+#### Front End:
 ![](https://img.shields.io/badge/HTML-80%25-green?labelColor=white&logo=html5&logoColor=red)
 ![](https://img.shields.io/badge/CSS-70%25-green?labelColor=white&logo=css3&logoColor=blue)
 ![](https://img.shields.io/badge/JavaScript-60%25-yellow?labelColor=white&logo=javascript)
-![](https://img.shields.io/badge/MySQL-60%25-yellow?labelColor=white&logo=mysql)
-![](https://img.shields.io/badge/GitHub-60%25-yellow?labelColor=white&logo=github&logoColor=black)
-![](https://img.shields.io/badge/Git-50%25-yellow?labelColor=white&logo=git)
 ![](https://img.shields.io/badge/Sass/SCSS-50%25-yellow?labelColor=white&logo=sass)
+
+#### Back End:
+![](https://img.shields.io/badge/MySQL-60%25-yellow?labelColor=white&logo=mysql)
+![](https://img.shields.io/badge/Python-60%25-yellow?labelColor=white&logo=python)
 ![](https://img.shields.io/badge/MongoDB-40%25-yellow?labelColor=white&logo=mongodb)
 ![](https://img.shields.io/badge/Node.js-30%25-yellow?labelColor=white&logo=nodedotjs)
+
+#### Tools:
+![](https://img.shields.io/badge/VS%20Code-70%25-green?labelColor=white&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/GitHub-60%25-yellow?labelColor=white&logo=github&logoColor=black)
+![](https://img.shields.io/badge/Git-50%25-yellow?labelColor=white&logo=git)
 
 ##
 
