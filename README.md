@@ -19,22 +19,22 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 ### Stacks
 
 #### Front End:
-![HTML](https://img.shields.io/badge/HTML-85%25-green?labelColor=white&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS-80%25-green?labelColor=white&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?labelColor=white&logo=javascript)
-![Sass](https://img.shields.io/badge/Sass/SCSS-50%25-yellow?labelColor=white&logo=sass)
+![HTML](https://img.shields.io/badge/HTML--green?labelColor=white&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS--green?labelColor=white&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript--yellow?labelColor=white&logo=javascript)
+![Sass](https://img.shields.io/badge/Sass/SCSS--yellow?labelColor=white&logo=sass)
 
 #### Back End:
-![Python](https://img.shields.io/badge/Python-80%25-green?labelColor=white&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-60%25-yellow?labelColor=white&logo=mysql)
-![GCP](https://img.shields.io/badge/GCP-40%25-yellow?labelColor=white&logo=googlecloud)
-![MongoDB](https://img.shields.io/badge/MongoDB-40%25-yellow?labelColor=white&logo=mongodb)
-![Node.js](https://img.shields.io/badge/Node.js-30%25-yellow?labelColor=white&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python--green?labelColor=white&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL--yellow?labelColor=white&logo=mysql)
+![GCP](https://img.shields.io/badge/GCP--yellow?labelColor=white&logo=googlecloud)
+![MongoDB](https://img.shields.io/badge/MongoDB--yellow?labelColor=white&logo=mongodb)
+![Node.js](https://img.shields.io/badge/Node.js--yellow?labelColor=white&logo=nodedotjs)
 
 #### Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-70%25-green?labelColor=white&logo=visualstudiocode&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub-60%25-yellow?labelColor=white&logo=github&logoColor=black)
-![Git](https://img.shields.io/badge/Git-50%25-yellow?labelColor=white&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code--green?labelColor=white&logo=visualstudiocode&logoColor=blue)
+![GitHub](https://img.shields.io/badge/GitHub--green?labelColor=white&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git--yellow?labelColor=white&logo=git)
 
 ##
 
