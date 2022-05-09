@@ -30,7 +30,6 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 ![](https://img.shields.io/badge/MySQL-60%25-yellow?labelColor=white&logo=mysql)
 ![](https://img.shields.io/badge/MongoDB-40%25-yellow?labelColor=white&logo=mongodb)
 ![](https://img.shields.io/badge/Node.js-30%25-yellow?labelColor=white&logo=nodedotjs)
-GCP 
 
 #### Tools:
 ![](https://img.shields.io/badge/VS%20Code-70%25-green?labelColor=white&logo=visualstudiocode&logoColor=blue)
