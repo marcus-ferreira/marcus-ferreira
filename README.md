@@ -21,8 +21,9 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 #### Front End:
 ![HTML](https://img.shields.io/badge/HTML--green?labelColor=white&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS--green?labelColor=white&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript--yellow?labelColor=white&logo=javascript)
 ![Sass](https://img.shields.io/badge/Sass/SCSS--yellow?labelColor=white&logo=sass)
+![JavaScript](https://img.shields.io/badge/JavaScript--yellow?labelColor=white&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript--yellow?labelColor=white&logo=typescript)
 
 #### Back End:
 ![Python](https://img.shields.io/badge/Python--green?labelColor=white&logo=python)
