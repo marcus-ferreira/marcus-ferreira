@@ -18,6 +18,12 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 
 ### Stacks
 
+#### Game:
+![Lua](https://img.shields.io/badge/Lua--green?labelColor=white&logo=lua&logoColor=blue)
+![LÖVE2D](https://img.shields.io/badge/LÖVE2D--green?labelColor=white&logo=lua&logoColor=blue)
+![C#](https://img.shields.io/badge/CSharp--yellow?labelColor=white&logo=csharp&logoColor=purple)
+![Unity](https://img.shields.io/badge/Unity--yellow?labelColor=white&logo=unity&logoColor=black)
+
 #### Front End:
 ![HTML](https://img.shields.io/badge/HTML--green?labelColor=white&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS--green?labelColor=white&logo=css3&logoColor=blue)
@@ -34,7 +40,8 @@ Computing Systems student @ [UFF](https://www.uff.br) | Web / Game Developer
 
 #### Tools:
 ![VS Code](https://img.shields.io/badge/VS%20Code--green?labelColor=white&logo=visualstudiocode&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub--green?labelColor=white&logo=github&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop--yellow?labelColor=white&logo=adobephotoshop&logoColor=blue)
+![GitHub](https://img.shields.io/badge/GitHub--yellow?labelColor=white&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git--yellow?labelColor=white&logo=git)
 
 ##
