@@ -18,23 +18,9 @@ Computing Systems student @ [UFF](https://www.uff.br) | Game Developer
 
 ### Stacks
 
-![Lua](https://img.shields.io/badge/Lua--green?labelColor=white&logo=lua&logoColor=blue)
-![LÖVE2D](https://img.shields.io/badge/LÖVE2D--green?labelColor=white&logo=lua&logoColor=blue)
-![C#](https://img.shields.io/badge/CSharp--yellow?labelColor=white&logo=csharp&logoColor=purple)
-![Unity](https://img.shields.io/badge/Unity--yellow?labelColor=white&logo=unity&logoColor=black)
-
-![HTML](https://img.shields.io/badge/HTML--green?labelColor=white&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS--green?labelColor=white&logo=css3&logoColor=blue)
-![Sass](https://img.shields.io/badge/Sass/SCSS--green?labelColor=white&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript--green?labelColor=white&logo=javascript)
-
-![Python](https://img.shields.io/badge/Python--green?labelColor=white&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL--yellow?labelColor=white&logo=mysql)
-
-![VS Code](https://img.shields.io/badge/VS%20Code--green?labelColor=white&logo=visualstudiocode&logoColor=blue)
-![Photoshop](https://img.shields.io/badge/Photoshop--yellow?labelColor=white&logo=adobephotoshop&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub--yellow?labelColor=white&logo=github&logoColor=black)
-![Git](https://img.shields.io/badge/Git--yellow?labelColor=white&logo=git)
+* Game: Lua, LOVE2D, C#, Unity
+* Web: HTML, CSS, Sass/SCSS, JavaScript
+* Tools: VS Code, Photoshop, Git, GitHub
 
 ##
 
