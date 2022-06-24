@@ -1,7 +1,6 @@
 ## Hello world! I'm Marcus Ferreira 👋
 
 <div align="center">
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
 
 Computing Systems student @ [UFF](https://www.uff.br) | Game Developer
 
@@ -14,15 +13,11 @@ Computing Systems student @ [UFF](https://www.uff.br) | Game Developer
 
 </div>
 
-##
+💻 Working on: Game dev
 
-### Stacks
+📚 Studying: Love2D and Lua
 
+Stacks
 * Game: Lua, LOVE2D, C#, Unity
 * Web: HTML, CSS, Sass/SCSS, JavaScript
 * Tools: VS Code, Photoshop, Git, GitHub
-
-##
-
-### GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ferreira&theme=vue-dark)
